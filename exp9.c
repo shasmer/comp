@@ -36,7 +36,15 @@ int main()
               check();
            }
        }
-
+      stk[i + 1] = '\0';
+      check();
+      if(stk[0] = 'E' && stk[1] = '\0'){
+         printf("\n\nString is Accepted\n");
+      }
+      else{
+         printf("\n\nString is Rejected\n");
+      }
+      return(0);
    }
 void check()
    {
