@@ -1,4 +1,4 @@
-//exp5.c nfa with E transition to nfa without E transition
+//exp5.c nfa with E transition to nfa without E transition(Enfa to nfa)
 #include <stdio.h>
 #include <string.h>
 
@@ -110,3 +110,4 @@ number of final states:1
 final states:3
 
 */
+
