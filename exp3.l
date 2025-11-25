@@ -1,4 +1,4 @@
-//exp3.l
+//exp3.l recoginize a valid arithmetic expression that uses operators +,-,*,/
 %{
 #include "y.tab.h"
 #include <stdlib.h>
