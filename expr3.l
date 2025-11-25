@@ -1,4 +1,4 @@
-//expr3.l recognize valid identifier
+//expr3.l recognize valid identifier that start with a letter followed by any number of letters or digits
 %{
 #include "y.tab.h"
 %}
